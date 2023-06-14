@@ -1,6 +1,7 @@
 # W3SocialMeta
 A social media application supporting metaverse and W3
 Features:
+
 1-Integration with decentralized identity protocols, such as the Ethereum Name Service (ENS), to allow users to truly own their profiles and data.
 
 2-In-app virtual reality (VR) and augmented reality (AR) capabilities, allowing users to interact with the metaverse directly from the social media platform.
